@@ -50,6 +50,7 @@ h1 {
 }
 
 .event {
+  padding: vars.$spacer*1.8;
   background-color: vars.$color-white;
   box-shadow: vars.$bs;
   // border-top-left-radius: 130px;

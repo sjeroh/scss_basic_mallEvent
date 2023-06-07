@@ -47,6 +47,7 @@ h1 {
 }
 
 .event {
+  padding: 1.8rem;
   background-color: #fff;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
   border-radius: 130px 50px;
